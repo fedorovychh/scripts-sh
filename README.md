@@ -1,2 +1,1 @@
-# scripts-sh
-# scripts-sh
+# Useful scripts
